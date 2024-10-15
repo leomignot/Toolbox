@@ -58,7 +58,7 @@ Pour des usages spécifiques, on ne peut que recommander d'aller voir du côté 
 ### Analyse textuelle
 - [Cortext](https://docs.cortext.net/) : plateforme en ligne d'analyse de corpus textuels (maintenue par le [LISIS](http://umr-lisis.fr/cortext/)).
 - [Gargantex](https://www.gargantext.org/) : plateforme en ligne de text-mining (maintenue par l'[ISC-PIF](https://iscpif.fr/gargantext/a-propos/)).
-- [Iramuteq](https://iramuteq.org/) : logiciel gratuit d'analyse textuelle (mais non-compatible avec les dernières version de macOS).
+- [Iramuteq](https://iramuteq.org/) : logiciel gratuit d'analyse textuelle.
 - Python (et un peu moins R) avec les bibliothèques dédiées ([Spacy](https://spacy.io/), [NLTK](https://www.nltk.org/), etc.).
 
 ### Analyse de réseaux
