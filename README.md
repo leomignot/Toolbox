@@ -1,8 +1,8 @@
 # BOITE À OUTILS
 
-[NB : ce document est la version publique de la boite à outils mise à disposition sur l'intranet du Centre Émile Durkheim. Certains liens et adresses mail ont donc été expurgés pour des raisons de confidentialité.\
+>*NB : ce document est la version publique de la boite à outils mise à disposition sur l'intranet du Centre Émile Durkheim. Certains liens et adresses mail ont donc été expurgés pour des raisons de confidentialité.\
 La mise à disposition de ce document sur un dépôt public a pour but de faciliter la mise à jour et la diffusion de ces informations à des publics similaires.\
-(Et de faciliter l'accès pour les membres du laboratoire qui ont la flemme de se connecter – on vous voit).]
+(Et de faciliter l'accès pour les membres du laboratoire qui ont la flemme de se connecter – on vous voit).*
 
 L'objectif n'est pas ici de présenter une liste exhaustive mais plutôt d'orienter vers les principaux outils (et de préciser le cas échéant leur disponibilité au sein du laboratoire).
 La [liste](https://digithum.huma-num.fr/ressources/boiteaoutils/) composée par Digit_Hum est toute indiquée pour celles et ceux souhaitant accéder à des ressources complémentaires.
