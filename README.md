@@ -89,7 +89,7 @@ Le sujet est trop vaste pour être traité ici, mais quelques outils et pistes p
 
 ### Stockage des données (drive)
 - [sDrive](https://ods.cnrs.fr/sdrive.php) (anciennement Mycore) disponible avec un accès Janus et proposé par le CNRS (100 Go).
-- l'[UBcloud](https://ubcloud.u-bordeaux.fr) du côté de l'université de Bordeaux (50 Go + dossier partagés).
+- l'[UBcloud](https://ubcloud.u-bordeaux.fr) du côté de l'université de Bordeaux (50 Go + dossiers partagés).
 - [Sharedocs](https://documentation.huma-num.fr/sharedocs-stockage/) du côté d'[Huma-Num](https://www.huma-num.fr/).
 
 ### Gestion des références bibliographiques
